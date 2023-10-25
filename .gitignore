@@ -1,1 +1,4 @@
 
+train/
+valid/
+*.h5
