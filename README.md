@@ -1,4 +1,4 @@
-# plant-based-disesase
+# plant-based-disease
 
  .h5 files were not able to uplode so use this link to get access
 
